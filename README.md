@@ -2,4 +2,4 @@
 
 For discussion of i18n in Rust.
 
-This discussion board is sponsored by the [OmnICU-SC](https://github.com/unicode-org/omnicu) of the ICU-TC as part of the Unicode Consortium.
+This project is now chartered as [unicode-org/icu4x](https://github.com/unicode-org/icu4x).
