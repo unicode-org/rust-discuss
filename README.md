@@ -6,7 +6,7 @@ This project is now chartered as [unicode-org/icu4x](https://github.com/unicode-
 
 ### License
 
-Copyright © 2019-2023 Unicode, Inc. Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the United States and other countries.
+Copyright © 2019-2024 Unicode, Inc. Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the United States and other countries.
 
 The project is released under [LICENSE](./LICENSE).
 
